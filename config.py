@@ -22,7 +22,7 @@ SQLALCHEMY_DATABASE_URI = "sqlite:///" + os.path.join(basedir, "app.db")
 # SQLALCHEMY_ECHO = True
 SQLALCHEMY_POOL_RECYCLE = 3
 
-BABEL_DEFAULT_LOCALE = "cs"
+BABEL_DEFAULT_LOCALE = "en"
 BABEL_DEFAULT_FOLDER = "translations"
 LANGUAGES = {
     "en": {"flag": "gb", "name": "English"},
@@ -36,6 +36,7 @@ LANGUAGES = {
     "pl": {"flag": "pl", "name": "Polish"},
     "el": {"flag": "gr", "name": "Greek"},
     "ja_JP": {"flag": "jp", "name": "Japanese"},
+    "cs_CZ": {"flag": "cz", "name": "Czech"},
 }
 
 FAB_API_MAX_PAGE_SIZE = 100
