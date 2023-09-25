@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+
+msgid "Hello, World!"
+msgstr "Ahoj, světe!"
+
+msgid "Summary"
+msgstr "Souhrn"
+
+msgid "Personal Info"
+msgstr "Osobní informace"
+
+msgid "Grouped Birth contacts"
+msgstr "Agregované kontakty podle narozenin"
+
+msgid "Contacts"
+msgstr "Kontakty"
+
+msgid "List Groups"
+msgstr "Seznam skupin"
+
+msgid "List Contacts"
+msgstr "Seznam kontaktů"
+
+msgid "Contacts Birth Chart"
+msgstr "Graf narozenin kontaktů"
